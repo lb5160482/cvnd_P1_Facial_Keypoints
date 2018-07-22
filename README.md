@@ -174,3 +174,12 @@ Alternatively, your submission could consist of only the **GitHub link** to your
 | Predict and display the keypoints on each detected face. | After face detection with a Haar cascade and face pre-processing, apply your trained model to each detected face, and display the predicted keypoints on each face in the image. |
 
 LICENSE: This project is licensed under the terms of the MIT license.
+
+
+
+## Training result
+The result is not very good.Maybe the network structure is not good or the training parameter setting is not good. To get a good result, it still needs more trial.
+
+![Some detection result](./images/facial_landmark_detec.png)
+
+
